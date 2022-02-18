@@ -7,11 +7,11 @@
  - Microsoft Power Automate
 
 # Features
-### - Secure Login and Signout as both employee and manager
-### - Employee Registration and Manager Registration
-### - Employee has access to personal info and changing profile pic.
-### - Employee and Managers have certain hours of time off for each time off type
-### - Employee can request time off and the PTO hours are dynamically allocated
-### - Requested time off by Employees are sent to Managers via Flow
-### - Managers can access and change manager personal info
-### - Managers can view and make changes to the requests made by Employees
+ - Secure Login and Signout as both employee and manager
+ - Employee Registration and Manager Registration
+ - Employee has access to personal info and changing profile pic.
+ - Employee and Managers have certain hours of time off for each time off type
+ - Employee can request time off and the PTO hours are dynamically allocated
+ - Requested time off by Employees are sent to Managers via Flow
+ - Managers can access and change manager personal info
+ - Managers can view and make changes to the requests made by Employees
